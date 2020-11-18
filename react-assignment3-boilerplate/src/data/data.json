@@ -1,0 +1,14 @@
+{
+  "news": [
+    {
+      "fullDescription": "Mac malware, a Bitcoin mixer, and more of the week's top security news.",
+      "url": "https://www.wired.com/story/robo-revenge-apple-malware-security-news/",
+      "id": 1
+    },
+    {
+      "fullDescription": "Plus: Steve Jobs' too-modest vision for Apple, the real problem with bitcoin, and the anointing of Rush Limbaugh.",
+      "url": "https://www.wired.com/story/plaintext-google-amazon-apple-big-tech-trillion-dollar-problem/",
+      "id": 2
+    }
+  ]
+}
